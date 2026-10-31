@@ -26,4 +26,4 @@ Actualmente combino la configuración de infraestructuras de red (DNS, servidore
 
 ### 📊 Mis Estadísticas
 
-![Estadísticas de Joel](https://github-readme-stats.vercel.app/api?username=joelruizvargas865-droid&show_icons=true&theme=tokyonight&hide_border=true)
+![Estadísticas de Joel](https://github-readme-stats.anuraghazra1.vercel.app/api?username=joelruizvargas865-droid&show_icons=true&theme=tokyonight&hide_border=true)
